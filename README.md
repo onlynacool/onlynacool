@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nakul Aravind</h1>
+<h1 align="center">I'm NAKUL</h1>
 <h3 align="center">Enthusiastic MCA graduate with a passion for coding and creativity. Currently diving into Java, Python, and Bootstrap for web development. Also, exploring the realms of gaming, animations, and photo/video editing. Always eager to learn and create!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onlynacool" alt="onlynacool" /></a> </p>
